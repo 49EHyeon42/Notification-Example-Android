@@ -66,3 +66,5 @@ Android 13.0 Tiramisu 이상 버전부터 알림 관련 권한과 핸들링이 �
 
 - [Create a Notification](https://developer.android.com/develop/ui/views/notifications/build-notification)
 - [Create and manage notification channels](https://developer.android.com/develop/ui/views/notifications/channels)
+- [Start an Activity from a Notification](https://developer.android.com/develop/ui/views/notifications/navigation)
+- [Why do we use the TaskStackBuilder?](https://stackoverflow.com/questions/36912325/why-do-we-use-the-taskstackbuilder)
