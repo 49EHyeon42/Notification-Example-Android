@@ -54,6 +54,14 @@ private void createNotificationChannel() {
 }
 ```
 
+## Android 13.0 (SDK 33)
+
+Android 13.0 Tiramisu 이상 버전부터 알림 관련 권한과 핸들링이 필요하다.
+
+```
+<uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+```
+
 ## Reference
 
 - [Create a Notification](https://developer.android.com/develop/ui/views/notifications/build-notification)
